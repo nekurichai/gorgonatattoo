@@ -1,0 +1,453 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/g90e192cc083e081d1c15e34b9d876b039d542338d80a8c5f6a2c9cd7eae5b21101b0b6ef21a94a4115268b077fcabb49428f327d085734dff2c7244c3e2414eb_1280.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 962px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 740px;
+  font-family: "Zen Maru Gothic";
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  background-image: none;
+  font-family: "Zen Maru Gothic";
+  font-size: 1.875rem;
+  width: 740px;
+  margin: 279px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 810px;
+  }
+
+  .u-section-1 .u-text-1 {
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 360px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1151px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  width: 680px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 92px auto 0;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 92px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 399px;
+  background-image: url("images/g84d19988c9622ab6d2b7598190cd9c2c6e925369cb69809d8ad03a5d2cbaa3353025641f7d09da1d6eee46c1c844dab38a3e0a076864d68768f3ace2dfb3618d_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 399px;
+  background-image: url("images/g33f9da3d1ab75efc966443764af8dc338c71b1bffb3572695e990a4c1288155b08fbb1a07c636557bd63784f74fac4698f87582ef3a9508d3c32e4919e3f7ffa_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-3 {
+  min-height: 399px;
+  background-image: url("https://www.byrdie.com/thmb/jPvc6yD3z0aleibabWeFQf-JPqM=/1024x768/filters:fill(auto,1)/startat-9de9bd31e744472f87a0654036dedaa4.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-4 {
+  min-height: 399px;
+  background-image: url("https://i.pinimg.com/564x/e6/93/d8/e693d8018327cc6b63e3e681eeabc168.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-5 {
+  min-height: 399px;
+  background-image: url("https://pbs.twimg.com/media/FN4HtoxXMAAnqG0?format=jpg&name=large");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-6 {
+  min-height: 399px;
+  background-image: url("https://i.pinimg.com/564x/22/a9/06/22a906f8b94b461faf3227f1f1f08cd0.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 809px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 329px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 329px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 329px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 329px;
+  }
+
+  .u-section-2 .u-image-5 {
+    min-height: 329px;
+  }
+
+  .u-section-2 .u-image-6 {
+    min-height: 329px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 655px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 252px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 252px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 252px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 252px;
+  }
+
+  .u-section-2 .u-image-5 {
+    min-height: 252px;
+  }
+
+  .u-section-2 .u-image-6 {
+    min-height: 252px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2419px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-5 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-6 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1579px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 168px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 357px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 357px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 357px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 357px;
+  }
+
+  .u-section-2 .u-image-5 {
+    min-height: 357px;
+  }
+
+  .u-section-2 .u-image-6 {
+    min-height: 357px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 558px;
+}
+
+.u-section-3 .u-slider-1 {
+  min-height: 388px;
+  width: 763px;
+  height: auto;
+  margin: 60px auto;
+}
+
+.u-section-3 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 42px 80px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Zen Maru Gothic";
+  margin: 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 43px 0 0;
+}
+
+.u-section-3 .u-carousel-item-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 19px 0;
+}
+
+.u-section-3 .u-slider-2 {
+  min-height: 388px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-carousel-indicators-2 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 80px 50px;
+}
+
+.u-section-3 .u-text-3 {
+  font-family: "Zen Maru Gothic";
+  margin: 5px auto 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 44px 0 0;
+}
+
+.u-section-3 .u-carousel-control-1 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+}
+
+.u-section-3 .u-carousel-control-2 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+  left: auto;
+  position: absolute;
+  right: 0;
+}
+
+.u-section-3 .u-carousel-control-3 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+}
+
+.u-section-3 .u-carousel-control-4 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+  left: auto;
+  position: absolute;
+  right: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-slider-1 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-slider-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
